@@ -5,7 +5,7 @@ ajax.js is a super-simple, 1kb, wait for it, ajax utility.
 
 ### Size
 
-* Source: 2kb
+* Source: 2.3kb
 * Minified: 1kb
 * Gzipped: 628 bytes
 
