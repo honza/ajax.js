@@ -13,7 +13,7 @@ ajax.js is a super-simple, 1kb, wait for it, ajax utility.
 ### Usage
 
 The API is very similar to that of jQuery's ajax method. You should
-immediately feed at home.
+immediately feel at home.
 
     ajax({
       type: 'get',
