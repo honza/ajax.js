@@ -76,6 +76,7 @@
     };
 
     if (options.type === 'POST') {
+      xml.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
       xml.send(serialize(options.data));
     } else {
       xml.send(null);
